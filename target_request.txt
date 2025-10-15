@@ -1,0 +1,15 @@
+GET / HTTP/1.1
+Host: wwww.myke.pro
+
+////////////////
+
+Get /find?color=green HTTP/1.1
+Host: wwww.myke.pro
+
+
+
+
+///// POST / HTTP/1.1
+Host: wwww.myke.pro
+Content-Length: 13
+Content-Type: application/x-www-form-urlencoded
